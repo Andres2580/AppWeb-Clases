@@ -1,4 +1,4 @@
-import { createWebHistory, createRouter } from 'vue-router'
+import { createRouter, createWebHistory} from 'vue-router'
 import CreateUserComponent from '@/components/create-user.component.vue'
 import MainLoginComponent from '@/components/main-login.component.vue'
 import ListUserComponent from '@/components/list-user.component.vue'
